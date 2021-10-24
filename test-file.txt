@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 try to commit
 branch
+=======
+try to varify
+>>>>>>> Stashed changes
